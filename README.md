@@ -1,5 +1,5 @@
 
-# Items Editor Web Panel for VORP
+# Items Editor Web Panel for RedM (VORP)
 
 Use this webpage to access item list, be able to View them, Edit them easily without touching directly your Database.
 
